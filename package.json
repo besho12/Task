@@ -36,5 +36,8 @@
         "vue-progressbar": "^0.7.5",
         "vue-router": "^3.4.8",
         "vuex": "^3.5.1"
+    },
+    "engines": {
+        "node": "12.x"
     }
 }
