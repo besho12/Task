@@ -38,8 +38,12 @@
         "vue-router": "^3.4.8",
         "vuex": "^3.5.1"
     },
+    "optionalDependencies": {
+        "fsevents": "*"
+      },
     "engines": {
         "node": "12.x",
-        "npm": "6.x"
+        "npm":"6.x"
     }
+
 }
